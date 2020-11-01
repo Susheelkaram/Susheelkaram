@@ -1,4 +1,4 @@
-### Hi there 👋
+#### A self-taught software developer with an experience and passion in building high quality 📱 Android apps using Java/Kotlin and Flutter. I love building things from scratch. 
 
 <!--
 **Susheelkaram/Susheelkaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
